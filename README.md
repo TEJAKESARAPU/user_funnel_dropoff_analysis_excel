@@ -131,7 +131,7 @@ The interactive dashboard includes:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard1.png)
+![Dashboard](dashboard.png)
 
 ---
 
